@@ -21,7 +21,30 @@
     </build>
     <packaging>jar</packaging>
 
-    <name>AESCrypto</name>
-    <url>http://maven.apache.org</url>
-    
+    <name>AESCrypto Library</name>
+    <description>This is a simple AES symmetric cryptography library for java</description>
+    <url>https://github.com/Sebastian-Noren/AESCrypto</url>
+
+    <licenses>
+        <license>
+            <name>The Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+
+    <developers>
+        <developer>
+            <name>Sebastian Norén</name>
+            <email>s.noren89@gmail.com</email>
+            <organization>com.github.Sebastian-Noren</organization>
+            <organizationUrl>https://github.com/Sebastian-Noren/</organizationUrl>
+        </developer>
+    </developers>
+
+    <scm>
+        <connection>scm:git:git://github.com/Sebastian-Noren/AESCrypto.git</connection>
+        <developerConnection>scm:git:ssh://github.com:Sebastian-Noren/AESCrypto.git</developerConnection>
+        <url>https://github.com/Sebastian-Noren/AESCrypto</url>
+    </scm>
+
 </project>
