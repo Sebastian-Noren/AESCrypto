@@ -1,11 +1,12 @@
 # AESCrypto
+AES symmetric-cryptography library for Java. Able to create, generete and store symmetric keys. Encrypt/decrypt methods for Strings, data in multiple ways. Encrypt/Decrypt Files.
 
 ## Minimum requirements
 This libary requires at minimum Java 10
 
 ## License
 
-Copyright 2017 Gustavo Avila
+Copyright 2020 Sebastian Norén
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
