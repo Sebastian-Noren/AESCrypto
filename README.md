@@ -1,4 +1,4 @@
-![ReactJS](https://img.shields.io/badge/built%20with-ReactJS-brightgreen)
+![Java](https://img.shields.io/badge/built%20with-Java-red)
 ![Build](https://img.shields.io/badge/build-passing-green)
 ![Version](https://img.shields.io/badge/version-1.0-lightgrey)
 ![License](https://img.shields.io/github/license/Sebastian-Noren/AESCrypto)
