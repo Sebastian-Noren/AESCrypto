@@ -1,3 +1,11 @@
+![ReactJS](https://img.shields.io/badge/built%20with-ReactJS-brightgreen)
+![Build](https://img.shields.io/badge/build-passing-green)
+![Version](https://img.shields.io/badge/version-1.0-lightgrey)
+![License](https://img.shields.io/github/license/Sebastian-Noren/AESCrypto)
+![Issues](https://img.shields.io/github/issues/Sebastian-Noren/AESCrypto)
+![Forks](https://img.shields.io/github/forks/Sebastian-Noren/AESCrypto)
+![Stars](https://img.shields.io/github/stars/Sebastian-Noren/AESCrypto)
+
 # AESCrypto
 AES symmetric-cryptography library for Java. Able to create, generete and store symmetric keys. Encrypt/decrypt methods for Strings, data in multiple ways. Encrypt/Decrypt Files.
 
